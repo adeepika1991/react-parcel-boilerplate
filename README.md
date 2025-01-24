@@ -1,6 +1,7 @@
 # react-parcel-boilerplate
 
-# Clone the Repository
-# In your terminal `cd {path/to/repositoryName}`
-# `npm install`
-# `npm start`
+1. Clone the Repository  
+2. In your terminal:  `cd {path/to/repositoryName}`  
+3. Run the following commands:  
+    - `npm install`  
+    - `npm start`
